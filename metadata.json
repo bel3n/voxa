@@ -1,0 +1,10 @@
+{
+  "name": "Nerdearla Live Captions",
+  "description": "Subtítulos y transcripción en vivo para charlas técnicas con Gemini Live, selector de salas, baja latencia y soporte multiespectador.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
